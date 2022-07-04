@@ -1,0 +1,27 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/script2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ae1ris/Object-as-dictionary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ae1ris/Object-as-dictionary/issues"
+  },
+  "homepage": "https://github.com/Ae1ris/Object-as-dictionary#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-plugin-react": "^7.29.4"
+  },
+  "dependencies": {
+    "1.1.1": "^1.0.0",
+    "jsdom": "^20.0.0"
+  }
+}
